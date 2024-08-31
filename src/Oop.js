@@ -4,5 +4,7 @@
 const person = {
 
     fname : "Jhon Mark",
-    lname
+    lname: "Malupa",
+    age: 21,
+    
 }
