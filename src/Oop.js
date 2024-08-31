@@ -1,6 +1,6 @@
 
 
-//* Object 
+//* Object Method 
 const person = {
 
     fname : "Jhon Mark",
