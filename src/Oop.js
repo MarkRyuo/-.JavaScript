@@ -1,6 +1,8 @@
 
 
+//* Object 
 const person = {
 
-    fname : "Jhon Mark"
+    fname : "Jhon Mark",
+    lname
 }
