@@ -12,4 +12,7 @@ const person = {
 
 //* Get object 
 
-document.getElementById("demo1").innerHTML = person.fname ;   
+document.getElementById("demo1").innerHTML = person.fname ;
+
+
+//* Display whole Object using loop- For loop
