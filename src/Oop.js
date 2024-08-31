@@ -1,7 +1,7 @@
 
 
 //* Object Method 
-const person = {
+let person = {
 
     fname : "Jhon Mark",
     lname: "Malupa",
@@ -19,8 +19,9 @@ document.getElementById("dem1").innerHTML = person.fname ;
 
 let display = ""
 
-for(key, values in person){
-    display += "<p>key</p>, <li>values</li>" ;
+for(let key in person){
+    display += `<p>${key}: ${person[key]}</p>` ;
+    console.log(di)
 }
 
 document.getElementById("demo1").innerHTML = display ;
