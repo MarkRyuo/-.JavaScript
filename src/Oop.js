@@ -16,3 +16,4 @@ document.getElementById("demo1").innerHTML = person.fname ;
 
 
 //* Display whole Object using loop- For loop
+
