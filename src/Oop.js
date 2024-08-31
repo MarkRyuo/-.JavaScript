@@ -22,3 +22,5 @@ let display = ""
 for(key, values in person){
     display += "<p>key</p>, <li>values</li>" ;
 }
+
+document.getElementById("demo1").innerHTML = display ;
