@@ -12,4 +12,4 @@ const person = {
 
 //* Get object 
 
-document.getElementById("demo1").innerHTML = person ;   
+document.getElementById("demo1").innerHTML = person.fname ;   
