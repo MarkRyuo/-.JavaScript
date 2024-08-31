@@ -21,7 +21,6 @@ let display = ""
 
 for(let key in person){
     display += `<p>${key}: ${person[key]}</p>` ;
-    console.log(di)
 }
 
 document.getElementById("demo1").innerHTML = display ;
