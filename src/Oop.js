@@ -17,6 +17,8 @@ document.getElementById("dem1").innerHTML = person.fname ;
 
 //* Display whole Object using loop- For loop
 
+let display = ""
+
 for(key, values in person){
-    document.getElementById("demo1").innerHTML = "<p>key</p>, <li>values</li>"
+    display += "<p>key</p>, <li>values</li>" ;
 }
