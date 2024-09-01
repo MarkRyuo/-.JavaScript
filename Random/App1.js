@@ -1,3 +1,3 @@
 
 
-let name = "Moda" ;
+let name = "Moda" ; // * Let can declare again
