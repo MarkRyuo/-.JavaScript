@@ -9,7 +9,6 @@ let lname = "" ;
 for(let x = 0 ; x < fname.length; x++) {
     lname += x 
 }
-
 console.log(lname)
 
 //* JavaScript supports different kinds of loops:
@@ -20,3 +19,5 @@ console.log(lname)
     while - loops through a block of code while a specified condition is true
     do/while - also loops through a block of code while a specified condition is true
 */
+
+
