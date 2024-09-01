@@ -7,7 +7,7 @@ const age = 21 ; //* const can't declare
 let lname = ""
 
 for(let x in length(fname)) {
-    x += lname 
+    lname += x 
 }
 
 console.log(x)
