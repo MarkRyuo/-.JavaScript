@@ -9,3 +9,5 @@ let lname = ""
 for(let x in length(fname)) {
     x += lname 
 }
+
+console.log(x)
