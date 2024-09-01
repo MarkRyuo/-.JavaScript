@@ -6,7 +6,7 @@ const age = 21 ; //* const can't declare
 //* Loop 
 let lname = ""
 
-for(let x in length(fname)) {
+for(let x in len(fname)) {
     lname += x 
 }
 
