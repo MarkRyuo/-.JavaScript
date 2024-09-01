@@ -3,7 +3,7 @@
 let fname = "Ryoda" ; // * Let can declare again
 const age = 21 ; //* const can't declare
 
-//* Control flow or Loops 
+//* Control flow and Loops 
 let lname = "" ;
 
 for(let x = 0 ; x < fname.length; x++) {
