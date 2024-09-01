@@ -20,7 +20,7 @@ console.log(lname)
     do/while - also loops through a block of code while a specified condition is true
 
     for (expression 1; expression 2; expression 3) {
-     code block to be executed
+        code block to be executed
 }
 
 */
