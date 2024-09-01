@@ -29,4 +29,6 @@ console.log(lname)
 
 if(age > 20) {
     console.log("OLD ENOUGH")
+} else {
+    console,log()
 }
