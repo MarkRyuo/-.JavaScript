@@ -33,6 +33,3 @@ if(age > 20) {
 } else {
     console,log("YOUNG")
 }
-
-
-
