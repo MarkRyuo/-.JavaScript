@@ -25,4 +25,4 @@ console.log(lname)
 
 */
 
-
+//* if statement 
