@@ -18,6 +18,11 @@ console.log(lname)
     for/of - loops through the values of an iterable object
     while - loops through a block of code while a specified condition is true
     do/while - also loops through a block of code while a specified condition is true
+
+    for (expression 1; expression 2; expression 3) {
+     code block to be executed
+}
+
 */
 
 
