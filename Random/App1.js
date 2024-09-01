@@ -27,4 +27,6 @@ console.log(lname)
 
 //* if statement 
 
-if(age > 20)
+if(age > 20) {
+    console.log("OLD ENOUGH")
+}
